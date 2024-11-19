@@ -1,0 +1,112 @@
+body
+{
+background-color: white;
+margin: 0%;
+}
+
+.Encabezado
+{
+background-image: url(videogames-controller-1920x1080-1.jpg);
+text-align: center;
+padding: 20px;
+color:white;
+border:1px solid black;
+}
+
+.Cositas
+{
+   text-align: center;
+   padding: 20px;
+   background-color:grey;
+   
+}
+
+.Cositas a
+{
+    color:white;
+    text-decoration: none;
+    margin: 25px;
+    
+}
+
+.Cositas a:hover
+{
+    color: black;
+    font-weight: 800;
+    background-color: yellow;
+    border-radius: 30px;
+}
+
+.Proyectos
+{
+display: flex;
+flex-direction: column;
+background-color: aquamarine;
+
+}
+.fila
+{
+    display: flex;
+    flex-direction: row;
+
+}
+
+.Palabras p
+{
+text-align: center;
+}
+img:hover
+{
+    transform: scale(2);
+}
+.imagen1 img
+{
+    height: 125px;
+    font-size:18px;
+    border: 1px solid black;
+    margin: 88px;
+   
+  
+}
+
+.imagen2 img
+{
+height: 125px;
+font-size:18px;
+border: 1px solid black;
+margin: 88px;
+
+}
+
+.imagen3 img
+{
+    height: 125px;
+    font-size:18px;
+    border: 1px solid black;
+    margin: 88px;
+  
+ 
+}  
+
+.Redes
+{
+    text-align: center;
+    background-color: cadetblue;
+    border:1px solid black ;
+    padding: 30px;
+   
+}
+
+.Redes a
+{
+color:black;
+margin: 10px;
+}
+
+.Red
+{
+font-size: 30px;
+color: black;
+font-weight: bolder;
+
+}
